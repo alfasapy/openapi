@@ -7,7 +7,7 @@ definitions:
         description: City/District/Suburb/Town/Village.
         type: string
       country:
-        description: 2-letter country code.
+        description: 3-letter country code.
         type: string
       line1:
         description: Address line 1 (Street address/PO Box/Company name).
